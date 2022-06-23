@@ -1,17 +1,17 @@
 /*首页字体*/
 @font-face {
     font-family:'arzhu';
-    src:url('http://cloud-20220618.test.upcdn.net/h.ttf'); /* 修改成你的字体 */
+    src:url('https://cloud.806006.xyz/h.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 @font-face{
     font-family:"arenu"; /*指定font-family名*/
-    src:url("http://cloud-20220618.test.upcdn.net/en-22.ttf");
+    src:url("https://cloud.806006.xyz/en-22.ttf");
     font-display:swap
 }
 @font-face{
     font-family:"arenus"; /*指定font-family名*/
-    src:url("http://cloud-20220618.test.upcdn.net/en-21.ttf");
+    src:url("https://cloud.806006.xyz/en-21.ttf");
     font-display:swap
 }
 h1#site-title {
@@ -25,7 +25,8 @@ a#site-name {
     font-family:arenus!important
 }
 .author-info__name{
-    font-family:arenu!important
+    font-family:arenu!important;
+    color: orangered;
 }
 .author-info__description {
     font-family:arzhu!important;
@@ -70,3 +71,6 @@ a#site-name {
 }
 
 /**/
+#aside-content .card-widget.card-info {
+    background: url(/img/1115.jpg);
+}
