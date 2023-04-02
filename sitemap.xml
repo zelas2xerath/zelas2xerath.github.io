@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.806006.xyz/charts/index.html</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.806006.xyz/Net/index.html</loc>
     
     <lastmod>2023-04-01</lastmod>
@@ -389,7 +398,7 @@
   </url>
   
   <url>
-    <loc>http://blog.806006.xyz/2021/08/21/hwid/</loc>
+    <loc>http://blog.806006.xyz/2021/08/21/hash/</loc>
     
     <lastmod>2022-11-23</lastmod>
     
@@ -398,7 +407,7 @@
   </url>
   
   <url>
-    <loc>http://blog.806006.xyz/2021/08/21/hash/</loc>
+    <loc>http://blog.806006.xyz/2021/08/21/hwid/</loc>
     
     <lastmod>2022-11-23</lastmod>
     
@@ -545,15 +554,6 @@
     <loc>http://blog.806006.xyz/Pwn/start.html</loc>
     
     <lastmod>2022-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/charts/index.html</loc>
-    
-    <lastmod>2022-06-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1138,7 +1138,7 @@
 
   <url>
     <loc>http://blog.806006.xyz/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1146,224 +1146,224 @@
   
   <url>
     <loc>http://blog.806006.xyz/tags/%E8%A3%85%E6%9C%BA/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/%E9%85%8D%E7%BD%AE%E5%8D%95/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Runtimes/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/DirectX/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Windows/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/DIY/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/GPU/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/hexo/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/pwn/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/IDA/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Markdown/</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/tags/Openwrt/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/%E8%B6%85%E9%A2%91/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/cpu/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Python/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.806006.xyz/tags/Openwrt/</loc>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/AMD/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Ryzen/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Pwn/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Linux/</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/tags/eNSP/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/NET/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.806006.xyz/tags/eNSP/</loc>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/iperf/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/idm/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Office/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/Potplayer/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/tags/%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/uboot/</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/tags/Mtk/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/QualCom/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.806006.xyz/tags/Mtk/</loc>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/tags/VMware/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.806006.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.806006.xyz/tags/%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -1372,35 +1372,35 @@
   
   <url>
     <loc>http://blog.806006.xyz/categories/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/categories/%E7%A1%AC%E4%BB%B6/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/categories/%E6%9D%82%E9%A1%B9/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/categories/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.806006.xyz/categories/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
