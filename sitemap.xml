@@ -1355,13 +1355,6 @@
   </url>
   
   <url>
-    <loc>http://blog.806006.xyz/tags/DIY/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.806006.xyz/tags/GPU/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1369,21 +1362,14 @@
   </url>
   
   <url>
+    <loc>http://blog.806006.xyz/tags/DIY/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.806006.xyz/tags/hexo/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/tags/KVM/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.806006.xyz/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1404,6 +1390,20 @@
   </url>
   
   <url>
+    <loc>http://blog.806006.xyz/tags/KVM/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.806006.xyz/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.806006.xyz/tags/Markdown/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1418,13 +1418,6 @@
   </url>
   
   <url>
-    <loc>http://blog.806006.xyz/tags/Python/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.806006.xyz/tags/%E8%B6%85%E9%A2%91/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1433,6 +1426,13 @@
   
   <url>
     <loc>http://blog.806006.xyz/tags/cpu/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.806006.xyz/tags/Python/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
