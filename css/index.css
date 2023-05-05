@@ -16414,9 +16414,6 @@ div#bannerGroup {
   #sidebar #sidebar-menus .menus_items .site-page:hover {
     background: none;
   }
-  div#travellings_button {
-    display: none !important;
-  }
 }
 
 #nav a:hover {
