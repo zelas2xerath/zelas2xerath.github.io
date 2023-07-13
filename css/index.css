@@ -9977,7 +9977,6 @@ h1.page-title + .tag-cloud-list {
   bottom: 0;
   height: var(--icon-size);
   width: var(--icon-size);
-  z-index: 31;
   cursor: pointer;
   -webkit-transition: 1s;
   -moz-transition: 1s;
@@ -10043,6 +10042,7 @@ h1.page-title + .tag-cloud-list {
 #center-console:checked + label {
   right: 0;
   top: 0.5rem;
+  z-index: 31;
 }
 #center-console:checked + label:hover::after {
   background: var(--anzhiyu-main) !important;
@@ -18861,6 +18861,10 @@ details .content > *:nth-child(1) {
 #console.reward-show {
   opacity: 1;
   pointer-events: all;
+}
+
+#console.reward-show .console-card-group {
+  pointer-events: none;
 }
 
 #console .console-card-group {
