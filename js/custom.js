@@ -45,4 +45,6 @@ function switchPostChart () {
     }
   }
 }
-document.getElementById("mode-button").addEventListener("click", function () { setTimeout(switchPostChart, 100) })
+window.onload = function () {
+  document.getElementById("mode-button").addEventListener("click", function () { setTimeout(switchPostChart, 100) })
+};

@@ -10251,6 +10251,11 @@ div#travellings_button::after {
 #nav .menus_items .menus_item .menus_item_child li a {
   padding: 2px 16px;
   border-radius: 50px;
+  -webkit-transition: 0.3s !important;
+  -moz-transition: 0.3s !important;
+  -o-transition: 0.3s !important;
+  -ms-transition: 0.3s !important;
+  transition: 0.3s !important;
 }
 #nav .menus_items .menus_item .menus_item_child li:hover a {
   color: #fff !important;
