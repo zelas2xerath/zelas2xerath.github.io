@@ -11,6 +11,7 @@
     const robserver = new ResizeObserver((entries) => {
         entries.forEach(entry => entry.target.dispatchEvent(markmapResize))
     })
+    document.addEventListener("pjax:send", () => { robserver.disconnect() })
     const autoFit = (el, obj) => {
         robserver.observe(el.parentNode)
         el.parentNode.addEventListener('markmapResize', debounce(() => obj.fit(), 100))
@@ -19,18 +20,17 @@
         document.querySelectorAll('.markmap-container>svg').forEach(el => {
           let obj = markmap.Markmap.create(el, { autoFit: true }, JSON.parse(el.getAttribute('data')))
           autoFit(el, obj)
+          
         })
     }
+    
     if (window.markmap && Object.keys(window.markmap).length != 0) { createMarkmap(); return }
     const CDN = {
       "js": {
-        "d3": 'https://fastly.jsdelivr.net/npm/d3@6',
-        "markmap_view": 'https://fastly.jsdelivr.net/npm/markmap-view@0.2.7',
+        "d3": "https://fastly.jsdelivr.net/npm/d3@6",
+        "markmap_view": "https://fastly.jsdelivr.net/npm/markmap-view@0.2.7",
       },
-      "css": [
-        
-        
-      ],
+      "css": [],
     }
     const loadElement = (elname, attr) => {
       const el = document.createElement(elname)
@@ -50,7 +50,7 @@
     await loadScript(CDN.js.d3)
     await loadScript(CDN.js.markmap_view)
     await Promise.all(CDN.css.map(loadCSS))
-
+    
     createMarkmap()
 }
 if(document.querySelector('.markmap-container')) {
